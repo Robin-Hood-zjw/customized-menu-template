@@ -2,7 +2,7 @@
 
 <section>
   <h2>Basic Intro to Food Customization</h2>
-  <p>Instructed by the Udemy course: <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, and deployed the required website as it wants.</p>
+  <p>Deployed skills: <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, and deployed the required website as it wants.</p>
 </section>
 
 <section>
